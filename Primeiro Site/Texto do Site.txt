@@ -1,0 +1,56 @@
+1 - Cabeçalho{
+    1.2 - Links da comunidade
+    1.3 - Discord
+    1.4 - Grupo
+    1.5 - Instagram
+    1.6 - Contato
+}
+
+2 - Conteúdos{
+    
+    2.1: Primeira seção{
+
+        Titulo: Seja bem-vindo à nossa comunidade;
+
+        Texto: Somos um local extremamente agradável e receptivo a todos os tipos de pessoas, pois o que importa para nós é a conexão interpessoal. Aqui você vai encontrar muitas pessoas para jogar, trabalhar, conversar e criar projetos. Sinta-se a vontade para entrar nos nossos grupos, seguir nas redes, conversar conosco pelo Discord e interagir nas nossas transmissões ao vivo.;
+
+        Botão 1: Entrar para comunidade;
+
+        Botão 2: Entrar em contato com um ADM;
+    }
+
+    2.2 - Segunda sessão - Discord {
+
+        Titulo: Converse conosco em nosso Discord, local muito utilizado para se conectar com as pessoas.;
+
+        Texto: Nosso servidor do Discord está livre para você utilizar para conversar com as pessoas da comunidade mas também para uso pessoal, tendo diversos canais justamente para não confundir os assuntos ou misturar os jogos e acabar virando bagunça.;
+        
+        Botão: Convite do Discord.;
+    }
+
+    2.3 - Terceira sessão - Grupo do WhatsApp {
+
+        Titulo: Saiba como encher o seu colchão;
+
+        Texto: Chat bem movimentado com fotos de bebes, café e muito papo aleatória sobre vida, bolo e como deve ser feito a gema do ovo.;
+
+        Botão: Link do Grupão do Wpp;
+    }
+
+    2.4 - Terceira sessão - Instagram {
+        Titulo: Ótimos momentos merecem ser registrados;
+
+        Texto: Fique sabendo de todos os momentos importantes para comunidade e relembre aquele instante épico que aconteceu durante uma das Campus.;
+
+        Botão: Veja nossas fotos;
+    }
+
+    2.5 - Quarta sessão - Contato {
+        Titulo: Venha remendar o seu colchão conosco.;
+
+        Texto: O que está esperando? Pegue sua Silver Tape e vamos fechar esses buracos.;
+
+        Botão: Participe da Comunidade;
+    }
+
+}
